@@ -1,0 +1,62 @@
+PRIVACY POLICY
+
+App: OTP Authenticator
+Last updated: 19 May 2026
+
+OVERVIEW
+
+OTP Authenticator ("the app") is a two-factor authentication app that
+generates time-based one-time passwords (TOTP) on your device. The app is
+designed to work fully offline. This policy explains how the app handles
+your information.
+
+DATA WE COLLECT
+
+We do not collect, transmit, sell, or share any personal or device data.
+
+The app has no user accounts, no analytics, no advertising, and no tracking.
+It does not connect to any server, and your information never leaves your
+device.
+
+DATA STORED ON YOUR DEVICE
+
+The following data is created and stored only on your device:
+
+- Authentication accounts you add (account name, issuer, and the secret key
+  used to generate codes). Secret keys are kept in the device's encrypted
+  secure storage.
+- App settings, such as your chosen language and whether App Lock is enabled.
+
+This data is never sent anywhere. It is removed when you delete an account
+within the app or uninstall the app.
+
+BACKUPS
+
+You can choose to export a backup file or QR codes. Backups are created only
+when you request them and are saved or shared to the location you choose.
+Encrypted backups are protected with a password you set (AES-256). You are
+responsible for storing backup files securely. The app does not upload or
+have access to backup files after they are created.
+
+PERMISSIONS
+
+- Camera: used only to scan QR codes when adding or importing accounts. No
+  images are stored or transmitted.
+- Biometrics / device credentials: used only to unlock the app when App Lock
+  is enabled. Biometric data is handled by your device's operating system and
+  is never accessed by the app.
+
+CHILDREN'S PRIVACY
+
+The app does not collect any data from anyone, including children. No
+personal information is gathered regardless of the user's age.
+
+CHANGES TO THIS POLICY
+
+If this policy changes, the updated version will be provided with the app
+and the "Last updated" date above will be revised.
+
+CONTACT
+
+For any questions about this privacy policy, contact:
+youssefelajbari@gmail.com
